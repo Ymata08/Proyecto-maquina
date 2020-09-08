@@ -12,11 +12,13 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Modules" Type="Folder">
 			<Item Name="Mensajes.lvlib" Type="Library" URL="../Libraries/Mensajes/Mensajes.lvlib"/>
+			<Item Name="Monedas.lvlib" Type="Library" URL="../Libraries/Monedas/Monedas.lvlib"/>
 			<Item Name="Productos.lvlib" Type="Library" URL="../Libraries/Productos/Productos.lvlib"/>
 			<Item Name="UI.lvlib" Type="Library" URL="../Libraries/UI/UI.lvlib"/>
 		</Item>
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test Mensajes API.vi" Type="VI" URL="../Libraries/Mensajes/Test Mensajes API.vi"/>
+			<Item Name="Test Monedas API.vi" Type="VI" URL="../Libraries/Monedas/Test Monedas API.vi"/>
 			<Item Name="Test Productos API.vi" Type="VI" URL="../Libraries/Productos/Test Productos API.vi"/>
 			<Item Name="Test UI API.vi" Type="VI" URL="../Libraries/UI/Test UI API.vi"/>
 		</Item>
