@@ -20,6 +20,7 @@
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Read Config Argument--cluster.ctl" Type="VI" URL="../Read Config Argument--cluster.ctl"/>
 				<Item Name="Obtain config Argument--cluster.ctl" Type="VI" URL="../Obtain config Argument--cluster.ctl"/>
+				<Item Name="write config Argument--cluster.ctl" Type="VI" URL="../write config Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -35,6 +36,7 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Read Config.vi" Type="VI" URL="../Read Config.vi"/>
 			<Item Name="Obtain config.vi" Type="VI" URL="../Obtain config.vi"/>
+			<Item Name="write config.vi" Type="VI" URL="../write config.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -86,4 +88,6 @@
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="READ.vi" Type="VI" URL="../SubVI/READ.vi"/>
+	<Item Name="WRITE.vi" Type="VI" URL="../SubVI/WRITE.vi"/>
 </Library>

@@ -1,0 +1,44 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>20.0</Version>
+<Array>
+<Name>Monedas 3</Name>
+<Dimsize>1</Dimsize>
+<Cluster>
+<Name>Monedas 3</Name>
+<NumElts>8</NumElts>
+<String>
+<Name>Denominacion1</Name>
+<Val>ffff</Val>
+</String>
+<DBL>
+<Name>Valor</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<String>
+<Name>Denominacion2</Name>
+<Val>ttttt</Val>
+</String>
+<DBL>
+<Name>Valor 2</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<String>
+<Name>Denominacion3</Name>
+<Val>aaaaaaaaaaa</Val>
+</String>
+<DBL>
+<Name>Valor 3</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<String>
+<Name>Denominacion4</Name>
+<Val>TE AMO</Val>
+</String>
+<DBL>
+<Name>Valor 4</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+</Array>
+</LVData>
