@@ -9,31 +9,31 @@
 <NumElts>8</NumElts>
 <String>
 <Name>Denominacion1</Name>
-<Val>ffff</Val>
+<Val>1</Val>
 </String>
 <DBL>
 <Name>Valor</Name>
-<Val>0.00000000000000</Val>
+<Val>1.00000000000000</Val>
 </DBL>
 <String>
 <Name>Denominacion2</Name>
-<Val>ttttt</Val>
+<Val>5</Val>
 </String>
 <DBL>
 <Name>Valor 2</Name>
-<Val>0.00000000000000</Val>
+<Val>5.00000000000000</Val>
 </DBL>
 <String>
 <Name>Denominacion3</Name>
-<Val>aaaaaaaaaaa</Val>
+<Val>10</Val>
 </String>
 <DBL>
 <Name>Valor 3</Name>
-<Val>0.00000000000000</Val>
+<Val>10.00000000000000</Val>
 </DBL>
 <String>
 <Name>Denominacion4</Name>
-<Val>TE AMO</Val>
+<Val></Val>
 </String>
 <DBL>
 <Name>Valor 4</Name>

@@ -21,6 +21,7 @@
 				<Item Name="Read Config Argument--cluster.ctl" Type="VI" URL="../Read Config Argument--cluster.ctl"/>
 				<Item Name="Obtain config Argument--cluster.ctl" Type="VI" URL="../Obtain config Argument--cluster.ctl"/>
 				<Item Name="write config Argument--cluster.ctl" Type="VI" URL="../write config Argument--cluster.ctl"/>
+				<Item Name="compras Argument--cluster.ctl" Type="VI" URL="../compras Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -37,6 +38,7 @@
 			<Item Name="Read Config.vi" Type="VI" URL="../Read Config.vi"/>
 			<Item Name="Obtain config.vi" Type="VI" URL="../Obtain config.vi"/>
 			<Item Name="write config.vi" Type="VI" URL="../write config.vi"/>
+			<Item Name="compras.vi" Type="VI" URL="../compras.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
