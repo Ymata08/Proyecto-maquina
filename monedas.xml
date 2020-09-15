@@ -25,19 +25,19 @@
 </DBL>
 <String>
 <Name>Denominacion3</Name>
-<Val>100</Val>
+<Val>50</Val>
 </String>
 <DBL>
 <Name>Valor 3</Name>
-<Val>100.00000000000000</Val>
+<Val>50.00000000000000</Val>
 </DBL>
 <String>
 <Name>Denominacion4</Name>
-<Val>150</Val>
+<Val>100</Val>
 </String>
 <DBL>
 <Name>Valor 4</Name>
-<Val>150.00000000000000</Val>
+<Val>100.00000000000000</Val>
 </DBL>
 </Cluster>
 </Array>
